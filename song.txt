@@ -5,6 +5,5 @@ on this their chosen battle field
 
 Form the lines
 Shield by dhield
-
-master branch
-feature commit
+--
+end of the song
